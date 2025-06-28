@@ -57,13 +57,12 @@ npm install
 
 Set up environment variables (create a .env file):
 
+```bash
 DATABASE_URL=your_database_url
-
 CLERK_API_KEY=your_clerk_api_key
-
 OPENAI_API_KEY=your_openai_api_key
-
 GEMINI_API_KEY=your_gemini_api_key
+```
 
 Run locally:
 
