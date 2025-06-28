@@ -5,9 +5,8 @@ Build smart, professional resumes in minutes with the power of AI.
 
 ---
 
-## 📺 Watch Demo
-
-[Click here to watch the demo]([https://sensai-vage.vercel.app/])
+## Visit Website
+Visit the [Live Demo]([https://job-portal-orpin-nine.vercel.app/](https://sensai-vage.vercel.app/)) of this project.
 
 ---
 
@@ -58,10 +57,13 @@ npm install
 
 Set up environment variables (create a .env file):
 
-**DATABASE_URL=your_database_url
-**CLERK_API_KEY=your_clerk_api_key
-**OPENAI_API_KEY=your_openai_api_key
-**GEMINI_API_KEY=your_gemini_api_key
+DATABASE_URL=your_database_url
+
+CLERK_API_KEY=your_clerk_api_key
+
+OPENAI_API_KEY=your_openai_api_key
+
+GEMINI_API_KEY=your_gemini_api_key
 
 Run locally:
 
