@@ -5,6 +5,12 @@ Build smart, professional resumes in minutes with the power of AI.
 
 ---
 
+## 📺 Watch Demo
+
+[Click here to watch the demo]((https://sensai-vage.vercel.app/))
+
+---
+
 ## ✨ About
 
 **SENSAI** is an AI-powered resume builder that helps you:
@@ -43,4 +49,32 @@ Clone the repository:
 ```bash
 git clone https://github.com/Vage10/sensai.git
 cd sensai
+```
+Install dependencies:
+
+```bash
+npm install
+```
+
+Set up environment variables (create a .env file):
+
+DATABASE_URL=your_database_url
+CLERK_API_KEY=your_clerk_api_key
+OPENAI_API_KEY=your_openai_api_key
+GEMINI_API_KEY=your_gemini_api_key
+Run locally:
+
+```bash
+npm run dev
+```
+App will be running at: http://localhost:3000
+
+🧪 Usage
+* Register or log in
+* Create your first resume
+* Use AI suggestions to enhance content
+* Customize design & export to PDF
+
+## Made By 
+Vageshwari Chaudhary
 
