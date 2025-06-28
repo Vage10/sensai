@@ -6,7 +6,7 @@ Build smart, professional resumes in minutes with the power of AI.
 ---
 
 ## Visit Website
-Visit the [Live Demo]([https://job-portal-orpin-nine.vercel.app/](https://sensai-vage.vercel.app/)) of this project.
+Visit the [Live Demo](https://sensai-vage.vercel.app/) of this project.
 
 ---
 
